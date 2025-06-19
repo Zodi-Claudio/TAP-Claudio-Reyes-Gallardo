@@ -10,3 +10,5 @@ Capturas prototipo y manual completo: Carpeta con imágenes de la interfaz utili
 Diagramas UML y Gantt: Carpeta con los diagramas de flujo, casos de usos, carta gantt, entre otros, en formato digital y alta resolución.
 
 Restaurapp manual de usuario: PDF completo del manual de usuario.
+
+TAP Claudio Reyes: PDF original en resolución máxima para su visualización. (La versión de intranet es comprimida, por lo que puede tener menor resolución a esta versión).
